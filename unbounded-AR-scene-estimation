@@ -1,0 +1,12 @@
+# Unbounded AR Scene Estimation
+
+When  reading the paper [FAST DEPTH DENSIFICATION FOR OCCLUSION-AWARE AUGMENTED REALITY](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html) I had read a quote
+
+> We present a novel algorithm that propagates sparse depth to every pixel in near realtime. The produced depth maps are spatio-temporally smooth but exhibit sharp discontinuities at depth edges. This enables AR effects that can fully interact and be occluded by the real scene.
+
+And I thought, often times there might be a cause for wanting to know the depth and geometry of things outside the bounds of the input image/video feed. The solution to this currently is to use SLAM and some memory of what had been previously estimated as the geometry/depth of things outside the camera. 
+But, I  think, it ought to be possible to have the AI estimate depths and geometries outside of the input images area. 
+For example, it should be obvious that if half a chair is seen in the scene, based on training data, that the other half is in a predictable spot. 
+I posit that a large number of accurate guesses could be made by a model trained on input images paired with fully constructed scenes using SLAM. 
+And, in fact, there may be an input method that allowed it to guess depths and geometries outside of the boundaries of the input image.
+This could be very useful in Augmented Reality applications in the future, and, to pass a small BS detecting test of my own, it is something humans already do quite often (estimate geometries of unseen areas).
