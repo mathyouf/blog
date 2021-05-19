@@ -1,0 +1,14 @@
+What if you could use a NN's architecture and weights, trained on a task as simple as "sum two input values", and pair it with natural language outputs collected online of humans' explanation of their reasoning for the same task?
+
+x_data: Take a NN that accepts two integer inputs, and the labels are the sum of those two numbers. Train it and store the weights and architecture in a tensor.
+y_label: An array of variable length strings of explanation of the concept (the concept, in this case, being summing two numbers)
+output: Any char length string
+loss: The word vector embedding (pre-trained model from another corpus) distance between the output and the average coordinate of the y_label (or some other more intricate loss)
+
+This would have to be done with multiple x_data models trained on the same concept, and perahps even the same architecture trained on a variety of concepts.
+
+If this model were to converge, it means we could get an NL explanation of a given input model. 
+Could we perhaps train this model guess if an input model were trained to sum versus divide simply by seeing its weights and architecture?
+And could that bring us closer to having a model which outputs an "explanation" of any model we give it to interpret?
+
+Side note: When a human has to explain another human's reasoning, like a therapist for example, one technique is to simply ask them their response to a variety of scenarios to infer their reasoning. The analogue of this would be training the model of the differences of outputs of different models for the same input. I'm not sure which NL labels this could be paired with though to be trained on.
