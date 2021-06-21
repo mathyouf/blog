@@ -3,6 +3,7 @@ Blog of my personal musings
 
 ## Resources
 [Artvee](https://artvee.com/): Website of open source historical artwork, perfect for making scenes in the future or as a training dataset for a generative model
+[Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview): Google Sheets
 
 ## Musings
 
