@@ -9,3 +9,9 @@ Blog of my personal musings
 [Unbounded AR Scene Estimation](https://github.com/mathyouf/blog/blob/main/unbounded-AR-scene-estimation)
 - Estimating depth maps of objects outside the boundaries of the input image/video feed without SLAM
 .
+
+## 3D Modeling Links
+[CGCookie](https://cgcookie.com/lesson/texture-coordinates)
+[AmbientCG](https://ambientcg.com/list?sort=Popular): Free PBR textures
+[Neil Blevins ARt Process Overview](http://www.neilblevins.com/art_lessons/art_process_overview_2020/art_process_overview_2020.htm): Guide
+[Topology Guides](https://topologyguides.com/): Guides on Topology
