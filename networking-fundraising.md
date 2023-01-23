@@ -12,7 +12,7 @@ Better yet if you enjoy interacting, because it means you could get a chance to 
 
 Best is if you love them. The world is only worth existing in because there are any people you can truly love.
 
-If you hate networking, you probably just suffer from a lack of strategies to avoid the bad, and a lack of graditude for the good, in it.
+If you hate networking, you probably just suffer from a lack of strategies to avoid the bad in it, and a lack of graditude for the good.
 
 ## Fundraising
 
