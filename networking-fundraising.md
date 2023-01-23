@@ -1,6 +1,6 @@
-I realize I can apply my positive philosophy of networking to my negative philsoophy on fundraising.
+### I realize I can apply my positive philosophy of networking to my negative philosophy on fundraising.
 
-# Networking
+## Networking
 
 People say they dislike networking. I like meeting people with similar interests. I especially like meeting them in events where I could have a chance to work together with them on those interests, or discuss them in depth. Hackathons are great. Academic conferences are great.
 
@@ -12,7 +12,7 @@ Best yet, is if you love them as people. The world is only worth existing in bec
 
 If you hate networking, you probably just suffer from a lack of strategies to avoid the bad, and a lack of graditude for the good.
 
-# Fundraising
+## Fundraising
 
 I hate the concept. Viscerally. I dislike the kind of people who are brought into this world, especially the smart ones, and the only thing they can think to do with that gift of life is to get money. I think if the world ends, it'll be those kind of people who do it.
 
@@ -30,4 +30,4 @@ But wouldn't it be great if they could build the things they'd be truly best at 
 
 Wouldn't it be great if they could do so indefinitely? If anyone who wanted to build that thing could do so indefinitely? Then realistically at some point that activity has to become profitable.
 
-“I apologize for such a long letter - I didn't have time to write a short one.”
+*“I apologize for such a long letter - I didn't have time to write a short one.”*
