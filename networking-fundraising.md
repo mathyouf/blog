@@ -1,4 +1,4 @@
-### I realize I can apply my positive philosophy of networking to my negative philosophy on fundraising.
+#### I realize I can apply my positive philosophy of networking to my negative philosophy on fundraising.
 
 ## Networking
 
@@ -29,5 +29,7 @@ They can obtain those buildings certain things in certain settings.
 But wouldn't it be great if they could build the things they'd be truly best at building, with a group of people they'd be best at building it with, in a setting that is best?
 
 Wouldn't it be great if they could do so indefinitely? If anyone who wanted to build that thing could do so indefinitely? Then realistically at some point that activity has to become profitable.
+
+-------
 
 *“I apologize for such a long letter - I didn't have time to write a short one.”*
