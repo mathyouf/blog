@@ -26,8 +26,6 @@ But without them, every other living thing on the planet besides humans and dogs
 
 ## Life Building
 
-I'm starting to consider how wrong I might be about hating it. 
-
 People needs homes, and food, and internet, at the very least, to do anything. If we lived in the garden of eden I imagined in the previous section that would still be true.
 
 Wouldn't it be great if people could build the things they'd be truly best at building, with a group of people they'd be best at building it with, in a setting that is best?
@@ -39,3 +37,9 @@ I hope to find the good people who are trying to reconfigure human activity towa
 -------
 
 *“I apologize for such a long letter - I didn't have time to write a short one.”*
+
+
+--------
+### Longer Form
+
+So this topic was precipiated by my reaction to a tweet I saw where someone was mocking the idea of going to a hackathon as a place where people pretend to not be networking. This was about the recent Scale AI hackathon. The take seemed a bit strange to me. I enjoyed the hackathon a LOT. I got to hang out with people I share interests with, and people with the level of passion to work on them over a weekend, and even the opportunity to actually get to find a few to work with directly on a project. You get tolearn a lot about people by seeing them ctually working and talking to the about what they're working on. You learn a lot about your craft too when you have to ackonowledge the daily grind and how uch one can really get done in a  single day.
