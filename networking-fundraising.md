@@ -1,4 +1,4 @@
-#### I realize I can apply my positive philosophy of networking to my negative philosophy on fundraising.
+#### Applying my positive view of networking to my negative view of fundraising.
 
 ## Networking
 
